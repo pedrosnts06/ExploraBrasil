@@ -71,7 +71,7 @@ ExploraBrasil/
 
 - **Site publicado:** https://pedrosnts06.github.io/ExploraBrasil/
 - **Repositório GitHub:** https://github.com/pedrosnts06/ExploraBrasil
-- **Video de apresentação:** ...
+
 ## Framework CSS
 
 Foi utilizado o **Bootstrap 5.3.3** para auxiliar na construção do layout, organização dos componentes e responsividade da aplicação.
