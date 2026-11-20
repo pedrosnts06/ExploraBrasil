@@ -70,7 +70,10 @@ ExploraBrasil/
 ## Links do projeto
 
 - **Site publicado:** https://pedrosnts06.github.io/ExploraBrasil/
+
 - **Repositório GitHub:** https://github.com/pedrosnts06/ExploraBrasil
+
+- **Video Apresentação:** https://drive.google.com/file/d/1QT27YbDvjpVPDDe-j7FbVUehIzz-Wy67/view?usp=drive_link
 
 ## Framework CSS
 
